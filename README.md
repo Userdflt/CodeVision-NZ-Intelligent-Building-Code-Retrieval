@@ -14,7 +14,7 @@
 
 ### Sample Extracted Images and Tables
 
-![Sample extracted building code diagrams and tables](Sample_extracted_building_code_diagrams_and_tables.png)
+![Sample extracted building code diagrams and tables](Sample_extracted.png)
 
 ### Workflow Diagram
 
