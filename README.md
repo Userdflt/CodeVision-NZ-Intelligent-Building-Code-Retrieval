@@ -1,5 +1,8 @@
 # CodeVision NZ: Intelligent Building Code Retrieval
 
+#### Code
+[Code_Link](CodeVision.py)
+
 ## Overview
 
 **CodeVision NZ** is an AI-powered personal project designed to simplify information retrieval from the New Zealand Building Code documentation. Leveraging open-source technologies, it efficiently extracts, indexes, and retrieves textual and visual data from PDF documents.
