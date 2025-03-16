@@ -12,13 +12,13 @@
 
 ![CodeVision NZ Application Interface](Local_Deployment_Example.png)
 
-### Sample Extracted Images and Tables
-
-![Sample extracted building code diagrams and tables](Sample_extracted.png)
-
 ### Workflow Diagram
 
 ![Detailed workflow diagram](Workflow_Diagram.jpeg)
+
+### Sample Extracted Images and Tables
+
+![Sample extracted building code diagrams and tables](Sample_extracted.png)
 
 ---
 
