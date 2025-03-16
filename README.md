@@ -10,15 +10,15 @@
 
 ### Application Interface
 
-![CodeVision NZ Application Interface](Screenshot_2025-03-16_180239.png)
+![CodeVision NZ Application Interface](Local_Deployment_Example.png)
 
 ### Sample Extracted Images and Tables
 
-![Sample extracted building code diagrams and tables](Screenshot_2025-03-16_180540.png)
+![Sample extracted building code diagrams and tables](Sample_extracted_building_code_diagrams_and_tables.png)
 
 ### Workflow Diagram
 
-![Detailed workflow diagram](Blank_diagram.jpeg)
+![Detailed workflow diagram](Workflow_Diagram.jpeg)
 
 ---
 
